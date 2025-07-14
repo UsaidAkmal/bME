@@ -12,4 +12,23 @@ Calculator BMI (Body Mass Index)
                        
 
 Berapa berat badan kamu? (kg) 
+
+
+Berapa berat badan kamu? (kg) 68
+Berapa tinggi badan kamu? (cm)170
+
+Bmi Kamu Adalah:  23.53
+Kategori: Normal
+
+Berapa berat badan kamu? (kg) 100
+Berapa tinggi badan kamu? (cm)150
+
+Bmi Kamu Adalah:  44.44
+Kategori: Obesitas
+
+Berapa berat badan kamu? (kg) 23
+Berapa tinggi badan kamu? (cm)170
+
+Bmi Kamu Adalah:  7.96
+Kategori: Kurus
 </pre>
